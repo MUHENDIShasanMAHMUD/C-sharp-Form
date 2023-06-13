@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\bin\Debug\Şehirler.exe.config
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\bin\Debug\Şehirler.exe
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\bin\Debug\Şehirler.pdb
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\obj\Debug\Şehirler.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\obj\Debug\Şehirler.Form1.resources
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\obj\Debug\Şehirler.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\obj\Debug\Şehirler.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\obj\Debug\Şehirler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\obj\Debug\Şehirler.exe
+C:\Users\ASUS\Desktop\Şehirler\Şehirler\obj\Debug\Şehirler.pdb
